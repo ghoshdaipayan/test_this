@@ -3,4 +3,3 @@ def sum(a, b):
         return a + b
     except Exception as ex:
         print(f"Following error occured: {ex}")
-
